@@ -215,7 +215,7 @@ BLUE_S1_DELAY         = 8.5
 BLUE_A2_DELAY         = 4.0   
 BLUE_S2_DELAY         = 10.0 
 BLUE_A3_DELAY         = 3.0   
-BLUE_S3_DELAY         = 5.0   
+BLUE_S3_DELAY         = 7.0   
 BLUE_A4_DELAY         = 12.0  
 
 BLUE_ENTER5_DELAY     = 1.5   
